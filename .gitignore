@@ -77,3 +77,5 @@ data/
 *.csv
 *.pdf
 *.sqlite
+*.pkl
+Twitter NLP/
